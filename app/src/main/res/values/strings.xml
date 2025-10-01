@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="card_message">Hello, World!</string>
+    <string name="from_signature">- Brett</string>
+</resources>
